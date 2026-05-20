@@ -16,6 +16,8 @@ This project analyzes student performance data using Python.
 ## Files
 - student_data.csv
 - student_performance_analytics.py
+## Dashboard Preview
+[Dashboard](Power BI Dashboard.jpg)
 
 ## Author
 Sai Sharan
